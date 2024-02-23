@@ -1,0 +1,56 @@
+.image-container{
+    position: relative;
+    left: auto;
+    width: 100%;
+    height: 900px;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    padding: 30px;
+    
+
+}
+.image-text{
+    position:absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 60px;
+    left: 70px;
+    
+
+
+}
+
+.container1{
+    display: flex;
+}
+.container{
+    display: flex;
+}
+#form{
+    padding: 10px;
+    margin-top: 40px;
+    
+    height: 600px;
+    width: 80%;
+    top: auto;
+    right: auto;
+    
+
+}
+.input{
+    padding: 14px 12px;
+    border-radius: 5px;
+    border: solid 2px;
+    width:25%;
+    color: deepskyblue;
+    
+
+}
+.button{
+ padding: 10px 20px;
+ box-shadow: inset;
+ color: black;
+ background-color: deepskyblue;
+ width: 300px;
+}
